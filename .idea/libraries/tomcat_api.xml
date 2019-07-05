@@ -3,6 +3,8 @@
     <CLASSES>
       <root url="jar://D:/tomcat9/apache-tomcat-9.0.21/lib/tomcat-api.jar!/" />
       <root url="jar://D:/tomcat9/apache-tomcat-9.0.21/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/tomcat/apache-tomcat-9.0.20/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/tomcat/apache-tomcat-9.0.20/lib/tomcat-api.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
